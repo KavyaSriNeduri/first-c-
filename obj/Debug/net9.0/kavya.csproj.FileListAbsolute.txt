@@ -1,0 +1,14 @@
+C:\Users\kavya\Documents\NET\kavya\bin\Debug\net9.0\kavya.exe
+C:\Users\kavya\Documents\NET\kavya\bin\Debug\net9.0\kavya.deps.json
+C:\Users\kavya\Documents\NET\kavya\bin\Debug\net9.0\kavya.runtimeconfig.json
+C:\Users\kavya\Documents\NET\kavya\bin\Debug\net9.0\kavya.dll
+C:\Users\kavya\Documents\NET\kavya\bin\Debug\net9.0\kavya.pdb
+C:\Users\kavya\Documents\NET\kavya\obj\Debug\net9.0\kavya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavya\Documents\NET\kavya\obj\Debug\net9.0\kavya.AssemblyInfoInputs.cache
+C:\Users\kavya\Documents\NET\kavya\obj\Debug\net9.0\kavya.AssemblyInfo.cs
+C:\Users\kavya\Documents\NET\kavya\obj\Debug\net9.0\kavya.csproj.CoreCompileInputs.cache
+C:\Users\kavya\Documents\NET\kavya\obj\Debug\net9.0\kavya.dll
+C:\Users\kavya\Documents\NET\kavya\obj\Debug\net9.0\refint\kavya.dll
+C:\Users\kavya\Documents\NET\kavya\obj\Debug\net9.0\kavya.pdb
+C:\Users\kavya\Documents\NET\kavya\obj\Debug\net9.0\kavya.genruntimeconfig.cache
+C:\Users\kavya\Documents\NET\kavya\obj\Debug\net9.0\ref\kavya.dll
